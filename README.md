@@ -1,2 +1,2 @@
 # VSCode
-Installation guide for VScode extensions
+## Installation guide for VScode extensions
