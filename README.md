@@ -1,8 +1,6 @@
 
 # VSCode-Extensions
 
-+ ReadMe.md
-
 Installation guide on how to download extensions to VSCode offline
 ---
 ## VSCode Update
