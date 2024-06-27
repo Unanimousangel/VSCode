@@ -29,9 +29,6 @@ Installation guide on how to download extensions to VSCode offline
   + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will  download shortly after.
     ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/a38d3db8-7683-4a78-84e6-8734ffa02274)
 
-+ linux
-  + 
-
 ##  vscode-v1.59.1
   
 
@@ -40,20 +37,21 @@ Installation guide on how to download extensions to VSCode offline
 
   + Universal
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.66
+    + .net install tool | Version 2.0.6
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
 
 ## vscode-v1.79.1
   + Windows
     + .net extension pack | Version 1.0.13
+    + .net install tool | Version 2.06
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
     + PowerShell | Version 2024.3.2 
    
   + Universal
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.66
+    + .net install tool | Version 2.0.6
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
   
