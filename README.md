@@ -28,23 +28,47 @@ Installation guide on how to download extensions to VSCode offline
 ## VSCode-extensions
 ### Before installing the following, [install](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) .net 8.0 SDK version 8.0.302 
 + Windows
-  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC prompt it will install shortly after. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/7e24bbc7-33e7-4978-bdcb-41256ad22ce8)
-
-
+  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will start downloading shortly after. ![alt text](image-4.png)
 + linux
   + 
 
-+ vscode-v1.59.1
-  + Linux
-    + 
+##  vscode-v1.59.1
+  
 
   + Windows
-    + 
+    + PowerShell | Version 2024.3.2 
+
   + Universal
-+ 
-+ vscode-v1.79.1
+    + .net extension pack | Version 1.0.13
+    + .net install tool | Version 2.0.66
+    + Markdown all in one | Version 3.6.2
+    + Polygot notebooks | Version 1.0.5229040
+
+## vscode-v1.79.1
+  + Windows
+    + .net extension pack | Version 1.0.13
+    + Markdown all in one | Version 3.6.2
+    + Polygot notebooks | Version 1.0.5229040
+    + PowerShell | Version 2024.3.2 
+   
+  + Universal
+    + .net extension pack | Version 1.0.13
+    + .net install tool | Version 2.0.66
+    + Markdown all in one | Version 3.6.2
+    + Polygot notebooks | Version 1.0.5229040
+  
+## vscode-v1.90.2
   + Linux
-    + 
+    + Jupter | Version 2024.5.2024052901
+    + .net extension pack | Version 1.0.13
+    + .net install tool | Version 2.0.7
+    + Jupyter cell tags | Version  0.1.9
+    + Jupyter keymap | Version 1.1.2
+    + Jupyter notebook renderers | Version 1.0.18
+    + Jupyter slide show | Version  0.1.6
+    + Markdown all in one | Version 3.6.2
+    + Polygot notebooks | Version 1.0.5229040
+  
   + Windows
     + Jupter | Version 2024.5.2024052901
     + .net extension pack | Version 1.0.13
@@ -56,18 +80,14 @@ Installation guide on how to download extensions to VSCode offline
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
     + PowerShell | Version 2024.3.2 
-  + Universal
-  
-+ vscode-v1.90.2
-  + Linux
-    
-    + 
-  
-  + Windows
-    + 
   
   + Universal
-    + 
+    + .net extension pack | Version 1.0.13
+    + .net install tool |
+    + Markdown all in one | Version 3.6.2
+    + Polygot notebooks | Version 1.0.5229040
+
+
 
 
 
