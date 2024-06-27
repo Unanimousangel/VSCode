@@ -11,11 +11,14 @@ Installation guide on how to download extensions to VSCode offline
   
   + Go to downloads and double click the file to run the installer.
   
-  +  You will be greeted by a EULA i hit i acept the agreement and then hit next. ![alt text](image.png)
+  +  You will be greeted by a EULA i hit i acept the agreement and then hit next. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/2ff53d1c-bdf0-41fa-9a95-04cc8f43e0d4)
+
   
-  +  On the next page leave "Register code a an editor for supported file types, and Add to PATH checked, then hit next. ![alt text](image-1.png)
+  +  On the next page leave "Register code a an editor for supported file types, and Add to PATH checked, then hit next. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/131a2993-a1dc-4a38-989a-a660bae31ff2)
+
   + Hit install and VsCode will start installing on the machine.
-  + Once VSCode is done installing, check the version number by hitting and about validate that it says version 1.90.2. as shown below![alt text](image-3.png)
+  + Once VSCode is done installing, check the version number by hitting and about validate that it says version 1.90.2. as shown below ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/5d7728ac-e87a-487c-b217-1cbe4fbddcdc)
+
 + Linux will use .rpm for red hat
   + On your Red Hat Linux machine, navigate to the directory where you transferred the RPM file.
   + Install the RPM package using the rpm command. 
@@ -25,7 +28,8 @@ Installation guide on how to download extensions to VSCode offline
 ## VSCode-extensions
 ### Before installing the following, [install](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) .net 8.0 SDK version 8.0.302 
 + Windows
-  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will start downloading shortly after. ![alt text](image-4.png)
+  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will start downloading shortly after. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/d39e64ba-e2f1-4690-b834-2bafb3d770e5)
+
 + linux
   + 
 
