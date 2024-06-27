@@ -28,7 +28,8 @@ Installation guide on how to download extensions to VSCode offline
 ## VSCode-extensions
 ### Before installing the following, [install](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) .net 8.0 SDK version 8.0.302 
 + Windows
-  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will start download shortly after. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/a38d3db8-7683-4a78-84e6-8734ffa02274)
+  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will  download shortly after.
+    ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/a38d3db8-7683-4a78-84e6-8734ffa02274)
 
 + linux
   + 
