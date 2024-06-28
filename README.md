@@ -27,7 +27,7 @@ Installation guide on how to download extensions to VSCode offline
   + Validate that VSCode is on the right version by clicking on help and about, as we did on windows.
 ---
 ## VSCode-extensions
-### Before installing the following, [install](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) .net 8.0 SDK version 8.0.302 
+### Before installing the following, [install](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) .net 8.0 SDK version 8.0.302 x32 version.
 + Windows
   + Double click on the file after downloading the x32 windows version, hit install and accept on the UAC it will  download shortly after. <br>
     ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/a38d3db8-7683-4a78-84e6-8734ffa02274)
@@ -36,7 +36,7 @@ Installation guide on how to download extensions to VSCode offline
   
 
   + Windows
-    + PowerShell | Version 2024.3.2 
+    + PowerShell | Version 2024.3F.2 
 
   + Universal
     + .net extension pack | Version 1.0.13
