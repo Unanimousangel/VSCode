@@ -5,7 +5,7 @@ Installation guide on how to download extensions to VSCode offline
 ---
 ## VSCode Update
 [Download](https://code.visualstudio.com/download) version 1.90.02 of VsCode 
-+ Windows will use x64 
++ Windows will use x32 
   
   + Go to downloads and double click the file to run the installer.
   
@@ -20,13 +20,13 @@ Installation guide on how to download extensions to VSCode offline
 + Linux will use .rpm for red hat
   + On your Red Hat Linux machine, navigate to the directory where you transferred the RPM file.
   + Install the RPM package using the rpm command. 
-  `sudo rpm -ivh code-1.90.2-1718751675.el8.x86_64.rpm` 
+  `sudo rpm -Uvh code-1.90.2-1718751675.el8.x86_64.rpm` 
   + Validate that VSCode is on the right version by clicking on help and about, as we did on windows.
 ---
 ## VSCode-extensions
 ### Before installing the following, [install](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) .net 8.0 SDK version 8.0.302 
 + Windows
-  + Double click on the file after downloading the x64 windows version, hit install and accept on the UAC it will  download shortly after.
+  + Double click on the file after downloading the x32 windows version, hit install and accept on the UAC it will  download shortly after.
     ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/a38d3db8-7683-4a78-84e6-8734ffa02274)
 
 ##  vscode-v1.59.1
