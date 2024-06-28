@@ -9,7 +9,8 @@ Installation guide on how to download extensions to VSCode offline
   
   + Go to downloads and double click the file to run the installer.
   
-  +  You will be greeted by a EULA i hit i acept the agreement and then hit next. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/2ff53d1c-bdf0-41fa-9a95-04cc8f43e0d4)
+  +  You will be greeted by a EULA i hit i acept the agreement and then hit next. <br>
+![image](https://github.com/Unanimousangel/VSCode/assets/71099427/2ff53d1c-bdf0-41fa-9a95-04cc8f43e0d4)
 
   
   +  On the next page leave "Register code a an editor for supported file types, and Add to PATH checked, then hit next. ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/131a2993-a1dc-4a38-989a-a660bae31ff2)
