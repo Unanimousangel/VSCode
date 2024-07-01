@@ -32,6 +32,9 @@ Installation guide on how to download extensions to VSCode offline
   + Double click on the file after downloading the x32 windows version, hit install and accept on the UAC it will  download shortly after. <br>
     ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/a38d3db8-7683-4a78-84e6-8734ffa02274)
   + After instillation, [Download](https://www.nuget.org/packages/Microsoft.dotnet-interactive) the NuGet dotnet-interactive package. After downloading, run the command `dotnet.exe tool install --global Microsoft.dotnet-interactive --add-source <path/to/folder/that/has/nuget/package> --version <dotnet-interactive-version>`
+  + Restart VSCode
+  + Hit `CTRL+SHIFT+P to launch the command pallete`
+  + select the option `Notebook: Select Notebook Kernel` > `Select Another Kernel` > `.Net Interactive`
 ##  vscode-v1.59.1
   
 
