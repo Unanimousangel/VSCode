@@ -54,33 +54,33 @@ Installation guide on how to download extensions to VSCode offline
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5229040
 
   + Windows
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5229040
     + PowerShell | Version 2024.3F.2
 
   + Universal
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5229040
 
 ## vscode-v1.79.1
   + Linux
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5229040
   
   + Windows
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.07
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5229040
     + PowerShell | Version 2024.3.2
 
    
@@ -88,7 +88,7 @@ Installation guide on how to download extensions to VSCode offline
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5229040
   
 ## vscode-v1.90.2
   + Linux
@@ -100,7 +100,7 @@ Installation guide on how to download extensions to VSCode offline
     + Jupyter notebook renderers | Version 1.0.18
     + Jupyter slide show | Version  0.1.6
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5367011
+    + Polyglot notebooks | Version 1.0.5367011
   
   + Windows
     + Jupter | Version 2024.6.2024070901
@@ -111,14 +111,14 @@ Installation guide on how to download extensions to VSCode offline
     + Jupyter notebook renderers | Version 1.0.18
     + Jupyter slide show | Version  0.1.6
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5367011
+    + Polyglot notebooks | Version 1.0.5367011
     + PowerShell | Version 2024.3.2 
   
   + Universal
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polygot notebooks | Version 1.0.5367011
+    + Polyglot notebooks | Version 1.0.5367011
 
 
 
