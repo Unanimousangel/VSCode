@@ -14,7 +14,7 @@ Installation guide on how to download extensions to VSCode offline
 
   
   3.  On the next page leave "Register code a an editor for supported file types, and Add to PATH checked, then hit next. <br>
-     [image](https://github.com/Unanimousangel/VSCode/assets/71099427/131a2993-a1dc-4a38-989a-a660bae31ff2)
+      ![image](https://github.com/Unanimousangel/VSCode/assets/71099427/131a2993-a1dc-4a38-989a-a660bae31ff2)
 
   4. Hit install and VsCode will start installing on the machine.
   5. Once VSCode is done installing, check the version number by hitting and about validate that it says version 1.90.2. as shown below  <br>
