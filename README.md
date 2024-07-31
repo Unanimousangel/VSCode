@@ -52,33 +52,33 @@ Installation guide on how to download extensions to VSCode offline
 
  + Linux
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.6
+    + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
 
   + Windows
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.6
+    + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
     + PowerShell | Version 2024.3F.2
 
   + Universal
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.6
+    + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
 
 ## vscode-v1.79.1
   + Linux
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.6
+    + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
   
   + Windows
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.06
+    + .net install tool | Version 2.07
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
     + PowerShell | Version 2024.3.2
@@ -86,7 +86,7 @@ Installation guide on how to download extensions to VSCode offline
    
   + Universal
     + .net extension pack | Version 1.0.13
-    + .net install tool | Version 2.0.6
+    + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
     + Polygot notebooks | Version 1.0.5229040
   
