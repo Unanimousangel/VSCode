@@ -54,33 +54,33 @@ Installation guide on how to download extensions to VSCode offline
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5367011
 
   + Windows
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5367011
     + PowerShell | Version 2024.3F.2
 
   + Universal
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5367011
 
 ## vscode-v1.79.1
   + Linux
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5367011
   
   + Windows
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.07
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5367011
     + PowerShell | Version 2024.3.2
 
    
@@ -88,7 +88,7 @@ Installation guide on how to download extensions to VSCode offline
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5229040
+    + Polyglot notebooks | Version 1.0.5367011
   
 ## vscode-v1.90.2
   + Linux
@@ -117,8 +117,12 @@ Installation guide on how to download extensions to VSCode offline
   + Universal
     + .net extension pack | Version 1.0.13
     + .net install tool | Version 2.0.7
+    + Jupyter cell tags | Version  0.1.9
+    + Jupyter keymap | Version 1.1.2
+    + Jupyter notebook renderers | Version 1.0.18
+    + Jupyter slide show | Version  0.1.6
     + Markdown all in one | Version 3.6.2
-    + Polyglot notebooks | Version 1.0.5367011
+    + Polyglot notebooks | Version 1.0.53670111
 
 
 
